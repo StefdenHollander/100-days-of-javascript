@@ -76,8 +76,13 @@ Here we have list of projects:
 64. Speech To Text
 65. Capture Screenshot
 66. Live Chart Generator
+67. Captcha App
+68. JSON Parser
+69. Form Validation
+70. Calendar With Events
+71. News Aggregator App
 
-## Where is rest 34 Projects
+## Where is rest 29 Projects
 
 We create a project each 3 days with voting on our <a href="https://youtube.com/@AsmrProg" target="_blank">Youtube</a> channel.
 You can vote for upcoming projects on our channel **community** page :wink:
